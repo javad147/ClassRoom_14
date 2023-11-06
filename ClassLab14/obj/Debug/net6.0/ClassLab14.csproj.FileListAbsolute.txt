@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ClassLab14\ClassLab14\bin\Debug\net6.0\ClassLab14.exe
+C:\Users\User\source\repos\ClassLab14\ClassLab14\bin\Debug\net6.0\ClassLab14.deps.json
+C:\Users\User\source\repos\ClassLab14\ClassLab14\bin\Debug\net6.0\ClassLab14.runtimeconfig.json
+C:\Users\User\source\repos\ClassLab14\ClassLab14\bin\Debug\net6.0\ClassLab14.dll
+C:\Users\User\source\repos\ClassLab14\ClassLab14\bin\Debug\net6.0\ClassLab14.pdb
+C:\Users\User\source\repos\ClassLab14\ClassLab14\obj\Debug\net6.0\ClassLab14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ClassLab14\ClassLab14\obj\Debug\net6.0\ClassLab14.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassLab14\ClassLab14\obj\Debug\net6.0\ClassLab14.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassLab14\ClassLab14\obj\Debug\net6.0\ClassLab14.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassLab14\ClassLab14\obj\Debug\net6.0\ClassLab14.dll
+C:\Users\User\source\repos\ClassLab14\ClassLab14\obj\Debug\net6.0\refint\ClassLab14.dll
+C:\Users\User\source\repos\ClassLab14\ClassLab14\obj\Debug\net6.0\ClassLab14.pdb
+C:\Users\User\source\repos\ClassLab14\ClassLab14\obj\Debug\net6.0\ClassLab14.genruntimeconfig.cache
+C:\Users\User\source\repos\ClassLab14\ClassLab14\obj\Debug\net6.0\ref\ClassLab14.dll
